@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayadir</h1>
-<h3 align="center">A passionate Frontend Developer and MERN Stack enthusiast from India</h3>
+<h3 align="center">MERN Stack and AI enthusiast from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayadir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jayadir&theme=onedark&margin-w=15&row=1" alt="GitHub Trophies" />
-  </a>
-</p>
+
 
 ---
 
@@ -80,12 +76,17 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jayadir&theme=onedark&margin-w=15&row=1" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jayadir&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayadir&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayadir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
